@@ -2,11 +2,14 @@
 图宇宙QQ小程序是一款画风简约的QQ图库小程序，通过express框架快速搭建。
 
 # 登录页面
+简约登录模板页面
+
 ![image](https://github.com/user-attachments/assets/d97577c6-ca13-4eb3-b074-a02e5ab0e4c1)
 
 # 首页空间
 
 图像数据列表形式预览
+
 ![image](https://github.com/user-attachments/assets/d48c20a6-f544-40d5-951d-8d299cbcbb9d)
 # 服务器端
 node 快速更新文件名称脚本
